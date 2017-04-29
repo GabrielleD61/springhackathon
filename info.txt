@@ -1,0 +1,31 @@
+Info for images
+
+shirt
+color : Black
+size : M
+store : H&M
+http://www.hm.com/us/product/67780?article=67780-A
+
+jacket
+color : White
+size : L
+store : H&M
+http://www.hm.com/us/product/67754?article=67754-A&cm_vc=SEARCH
+
+pants
+Color : pastel pink <br>
+Size : 10 <br>
+Store : H&M <br>
+http://www.hm.com/us/product/47110?article=47110-G <br>
+
+sunglasses
+color : pink
+size : one size
+store : H&M
+http://www.hm.com/us/product/19030?article=19030-B
+
+shoes
+color : white
+size : 9
+store : H&M
+http://www.hm.com/us/product/64888?article=64888-E#article=64888-C
